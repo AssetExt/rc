@@ -1,12 +1,12 @@
-//version-11f155f3450f4c8e
+//version-9ac8595712b447a7
 
 namespace Raycast {
-         inline constexpr uintptr_t RaycastBoundDesc        = 0x8557620;
+         inline constexpr uintptr_t RaycastBoundDesc        = 0x86E0D50;
          inline constexpr uintptr_t RaycastBoundFn          = 0x90;
 }
 
 namespace FastClusterEntity {
-         inline constexpr uintptr_t VTableRva               = 0x6F2C158;
+         inline constexpr uintptr_t VTableRva               = 0x7067468;
          inline constexpr uintptr_t ContextPtr              = 0x8;
          inline constexpr uintptr_t RenderQueueId           = 0x10;
          inline constexpr uintptr_t AlphaByte               = 0x14;
